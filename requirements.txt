@@ -1,0 +1,8 @@
+sqlalchemy==1.4.41
+fastapi==0.98
+geoalchemy2==0.13.3
+sqlmodel==0.0.8
+uvicorn==0.22.0
+httpx==0.24.1
+pytest==7.4.0
+

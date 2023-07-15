@@ -1,5 +1,5 @@
 # fasttest
-FastAPI with SQLModel testing
+FastAPI with SQLModel testing example
 
 # NOTE!
 The code here is derived from that supplied in 
@@ -10,6 +10,8 @@ any errors or omissions are my own!
 Create working code to show testing with an in-memory database
 
 # Usage
+Install requirements into a virtual environment (Python 3.10+).
+
 Clone repo and run:
 
 	pytest
